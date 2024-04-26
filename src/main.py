@@ -457,7 +457,4 @@ def main_test():
 if __name__ == '__main__':
     # main()
     main_test()
-
-    # C:\Users\rayla\OneDrive\Komga\Manga\Official Releases\Completed
-    # C:\Users\rayla\Desktop\Komga temp 2
     pass
